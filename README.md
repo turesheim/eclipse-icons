@@ -1,11 +1,13 @@
-=Eclipse Icons=
-
+Eclipse Icons
+=============
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Luna.png" width="128px"/>
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars.png" width="128px"/>
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Neon.png" width="128px"/>
 
-== Badges ==
+Only OS X versions for icons have been created, but it should be straightforward to convert to Linux and Windows. Installation instructions for installing on OS X can be found in this blog post: https://resheim.net/2014/11/heavenly-bodies-icons-for-eclipse.html
 
+Badges
+------
 There are icons with badges for the CDT, PDE and J2EE distributions.
 
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_CPP.png" width="128px"/>
