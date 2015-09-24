@@ -8,10 +8,11 @@ Only OS X versions for icons have been created, but it should be straightforward
 
 Badges
 ------
-There are icons with badges for the CDT, PDE and J2EE distributions.
+There are icons with badges for the CDT, PDE, RCP and J2EE distributions.
 
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_CPP.png" width="128px"/>
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_PDE.png" width="128px"/>
+<img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_RCP.png" width="128px"/>
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_J2EE.png" width="128px"/>
 
 The source for the planetary bodies are here:
