@@ -1,11 +1,10 @@
-eclipse-icons
-=============
+=Eclipse Icons=
 
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Luna.png" width="128px"/>
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars.png" width="128px"/>
 <img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Neon.png" width="128px"/>
 
-*Badges*
+== Badges ==
 
 There are icons with badges for the CDT, PDE and J2EE distributions.
 
