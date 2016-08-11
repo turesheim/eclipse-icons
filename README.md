@@ -7,16 +7,7 @@ Eclipse Icons
 
 Only OS X versions for icons have been created, but it should be straightforward to convert to Linux and Windows. Installation instructions for installing on OS X can be found in this blog post: https://resheim.net/2014/11/heavenly-bodies-icons-for-eclipse.html
 
-Badges
-------
-There are icons with badges for the CDT, PDE, RCP and J2EE distributions.
-
-<img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_CPP.png" width="128px"/>
-<img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_PDE.png" width="128px"/>
-<img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_RCP.png" width="128px"/>
-<img src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Mars_J2EE.png" width="128px"/>
-
-The source for the planetary bodies are here:
+The source for the images used in the planetary body icons can be found here:
 * [Mars](http://en.wikipedia.org/wiki/Mars#mediaviewer/File:Water_ice_clouds_hanging_above_Tharsis_PIA02653_black_background.jpg)
 * [Luna](http://en.wikipedia.org/wiki/Moon#mediaviewer/File:FullMoon2010.jpg)
 * [Neon](https://en.wikipedia.org/wiki/Neptune#/media/File:Neptune_Full.jpg) (Yes, it is Neptune – had to stick to the theme.)
